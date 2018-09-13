@@ -5,7 +5,7 @@ This is my first *code*. I will code in **R**
 This is my first list.
 1. First item
 2. Second item 
-  ***This is another point***
+   ***This is another point***
 
 This is [google](https://www.google.com)
 
