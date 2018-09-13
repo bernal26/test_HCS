@@ -24,7 +24,7 @@ This is my R code
 library('DESeq2')
 ...
 |Table|Col1|Col2|
-|-----|hell|byebye| 
+|-----|----|----| 
 |fefefef|fefef|gggg|
 
 ---
